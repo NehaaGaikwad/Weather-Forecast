@@ -1,0 +1,7 @@
+ tkinter
+ pytz
+ geopy (Nominatim)
+ datetime
+ requests
+ Pillow (PIL)
+ timezonefinderL
